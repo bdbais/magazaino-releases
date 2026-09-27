@@ -1,0 +1,11 @@
+{
+  "versionName": "1.0.2",
+  "versionCode": 3,
+  "mandatory": false,
+  "notes": "Aggiornamenti automatici.\n\n- Quando esce una versione nuova, la Home lo dice da sola: si tocca \"Aggiorna\",\n  l'app la scarica, controlla che il file sia proprio quello pubblicato e apre\n  l'installazione (Android chiede solo di confermare).\n- La prima volta Android può chiedere di consentire l'installazione da MagazAIno.\n- Si può saltare una versione; il controllo resta anche in Profilo → Cerca aggiornamenti.",
+  "android": {
+    "url": "https://github.com/bdbais/magazaino-releases/releases/download/v1.0.2/MagazAIno.apk",
+    "sha256": "24cbe62a7e4d4eecbc62104a96a1196df588f985c3a8f333a8e9ef8c06be3c1c",
+    "sizeBytes": 74109335
+  }
+}
